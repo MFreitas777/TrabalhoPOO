@@ -1,0 +1,39 @@
+Produtos:
+Nome: Auscultadores Gaming com Fio HYPERX Cloud II (Over Ear - Multiplataforma - Noise Cancelling - Vermelho), Categoria: Gaming, Quantidade em Estoque: 25, Marca: HyperX, Preço: 70
+Nome: Micro-ondas BECKEN BMW4443 (25 L - Com Grill - Preto), Categoria: Eletrodomesticos, Quantidade em Estoque: 15, Marca: BECKEN, Preço: 100
+Nome: TV LG OLED65C36LC (OLED Evo - 65'' - 165 cm - 4K Ultra HD - Smart TV), Categoria: TVeSom, Quantidade em Estoque: 8, Marca: LG, Preço: 1580
+Nome: Pen USB SANDISK Ultra Luxe (64 GB - USB 3.1), Categoria: Informatica, Quantidade em Estoque: 40, Marca: SANDISK, Preço: 16
+Nome: Consola PS5 Slim (1 TB), Categoria: Gaming, Quantidade em Estoque: 8, Marca: SONY, Preço: 550
+Nome: Colunas Gaming RAZER Nommo Chroma (Pc e Mac), Categoria: TVeSom, Quantidade em Estoque: 6, Marca: RAZER, Preço: 180
+Nome: Portátil Gaming ACER Nitro 5 AN515-47-R3LK (15.6" - AMD Ryzen 5 7535HS - RAM, Categoria: Gaming, Quantidade em Estoque: 4, Marca: ACER, Preço: 900
+Nome: Aspirador Vertical ROWENTA RH6543WH Air Force Light (14.4 V - Autonomia 30 min - 650 ml), Categoria: Eletrodomesticos, Quantidade em Estoque: 11, Marca: ROWENTA, Preço: 90
+Nome: Fagor 3Mwf-235Dgeb Balcão Micro-Ondas Grill 23 L 800 W, Categoria: Eletrodomesticos, Quantidade em Estoque: 14, Marca: FAGOR, Preço: 143
+Nome: Adaptador de corrente USB C de 20 W APPLE Branco, Categoria: Informatica, Quantidade em Estoque: 22, Marca: APPLE, Preço: 30
+
+Clientes:
+Nome do Cliente: Ramiro Romao
+Produtos Comprados:
+
+Nome do Cliente: Marco Paulo
+Produtos Comprados:
+- Fagor 3Mwf-235Dgeb Balcão Micro-Ondas Grill 23 L 800 W
+
+Nome do Cliente: Joao Santos
+Produtos Comprados:
+- Consola PS5 Slim (1 TB)
+- Adaptador de corrente USB C de 20 W APPLE Branco
+
+Nome do Cliente: Marco Macedo
+Produtos Comprados:
+- Fagor 3Mwf-235Dgeb Balcão Micro-Ondas Grill 23 L 800 W
+- Aspirador Vertical ROWENTA RH6543WH Air Force Light (14.4 V - Autonomia 30 min - 650 ml)
+
+
+Campanhas:
+Nome da Campanha: BlackFriday
+Produtos com Desconto:
+- Produto: - Produto: Fagor 3Mwf-235Dgeb Balcão Micro-Ondas Grill 23 L 800 W, Desconto: 10%
+- Produto: - Produto: Consola PS5 Slim (1 TB), Desconto: 5%
+- Produto: - Produto: Auscultadores Gaming com Fio HYPERX Cloud II (Over Ear - Multiplataforma - Noise Cancelling - Vermelho), Desconto: 40%
+- Produto: - Produto: Portátil Gaming ACER Nitro 5 AN515-47-R3LK (15.6" - AMD Ryzen 5 7535HS - RAM, Desconto: 15%
+
